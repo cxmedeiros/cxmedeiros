@@ -1,6 +1,5 @@
-
-### Hi, i'm Camila Xavier
-<img src="{https://gifs.eco.br/gifs-da-fada-sininho/}"
+# Hi, I'm Camila Xavier!
+<img src="https://gifs.eco.br/gifs-da-fada-sininho"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
