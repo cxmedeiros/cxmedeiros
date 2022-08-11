@@ -6,7 +6,7 @@
 - 👥 I’m Assistant Teacher of Algorithms and Data Structures
 - 🔬 I do scientific initiacion in the biomedical computing group
 - 💬 Pronouns: she/her
-- 📚 I lovo learn new things and challenge me in the world of computing 
+- 📚 I love learn new things and challenge me in the world of computing 
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
