@@ -1,7 +1,7 @@
 # Hi, I'm Camila Xavier!
 <img src="https://i.pinimg.com/originals/66/71/1c/66711cf0ea718aa38781a735bbd6e4d0.gif"/>
 
-- 💻 I'm a Computer Science student at CIn - UFPE 
+- 💻 I'm a Computer Engineer student at CIn - UFPE 
 - 💚 I’m currently working as a Software Developer at CITi
 - 👥 I’m Assistant Teacher of Algorithms and Data Structures
 - 🔬 I do scientific initiacion in the biomedical computing group
