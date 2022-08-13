@@ -18,17 +18,5 @@
 
   <a href="https://www.linkedin.com/in/camila-medeiros-98571a226/" target="blank_"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/camilaxmedeiros/" target="blank_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
+<div style="display: inline_block; justify-content: center;"><br>
 
