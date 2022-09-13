@@ -5,7 +5,7 @@
 - 💚 I’m currently working as a Software Developer at CITi
 - 👥 I’m Assistant Teacher of Algorithms and Data Structures
 - 🔬 I do scientific initiacion in the biomedical computing group
-- 💬 Pronouns: she/her
+- 💬 Pronouns: she/her :)
 - 📚 I love learn new things and challenge me in the world of computing 
 
 <div align="left">
