@@ -6,6 +6,7 @@
 - 👥 I’m Teaching Assistant of Algorithms and Data Structures
 - 🔬 I do scientific initiacion in the biomedical computing group
 - 💬 Pronouns: she/her :)
+- 😊 I'm 20 years old!
 - 📚 I love learn new things and challenge me in the world of computing 
 
 <div align="left">
