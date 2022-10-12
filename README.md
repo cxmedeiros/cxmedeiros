@@ -12,6 +12,7 @@
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&show_icons=true&theme=buefy&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxmedeiros&layout=compact&langs_count=7&theme=buefy"/>
+   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="My github stats" /> 
 </div>
   
   ### Let's connect:
