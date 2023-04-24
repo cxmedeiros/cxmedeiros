@@ -5,13 +5,13 @@
 - 💚 I’m currently working as a Software Manager at CITi.
 - 👥 I’m Teaching Assistant of Database Management.
 - 💬 Pronouns: she/her :)
-- 😊 I'm 20!
+- 😊 I'm 21!
 - 📚 I love learn new things and challenge me in the world of computing.
 
 <div align="center">
   <a href="https://github.com/renatomsa">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxmedeiros&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxmedeiros&layout=compact&langs_count=7&theme=chartreuse-light"/>
 </div>
 
 <div style="display: inline_block"><br>
