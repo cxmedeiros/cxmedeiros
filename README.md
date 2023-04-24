@@ -1,5 +1,5 @@
 ### Hi, I'm Camila Xavier!
-<img src="https://media.tenor.com/E7QxmVz22ugAAAAd/estudar-computador.gif"/>
+<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif"/>
 
 - 💻 I'm a Computer Engineering student at CIn - UFPE.
 - 💚 I’m currently working as a Software Manager at CITi.
