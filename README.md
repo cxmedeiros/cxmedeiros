@@ -6,9 +6,9 @@
 - 👥 I’m Teaching Assistant of Database Management.
 - 💬 Pronouns: she/her :)
 - 😊 I'm 21!
-- ⚕️ I do research in a biomedical computing group an i'm passionate about applying technology to healthcare.
+- ⚕️  I do research in a biomedical computing group an i'm passionate about applying technology to healthcare.
 - 🔎 Enthusiast in the study of AI applied in health.
-- - 📚 I love learn new things and challenge me in the world of computing.
+- 📚 I love learn new things and challenge me in the world of computing.
 
 <div align="center">
   <a href="https://github.com/renatomsa">
