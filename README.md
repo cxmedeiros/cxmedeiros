@@ -2,8 +2,7 @@
 <img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif"/>
 
 - 💻 I'm a Computer Engineering student at CIn - UFPE.
-- 💚 I’m currently working as a Software Manager at CITi.
-- 👥 I’m Teaching Assistant of Database Management.
+- 💚 I’m currently as a development student IOS at Apple Developer Academy (UFPE).
 - 💬 Pronouns: she/her :)
 - 😊 I'm 21!
 - ⚕️  I do research in a biomedical computing group and i'm passionate about applying technology to healthcare.
