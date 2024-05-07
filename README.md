@@ -23,6 +23,7 @@
   <img align="center" alt="Camila-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Camila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Camila-Swift" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/9/96/App_Store_icon_for_Swift_Playgrounds.png">
+  <img align="center" alt="Camila-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
 </div>
 <br>
 <br>
