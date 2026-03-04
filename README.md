@@ -6,11 +6,13 @@
 - 😊 I'm 23!
 - 📚 I love learn new things and challenge me in the world of computing.
 
+<br>
 <div align="center">
-  <a href="https://github.com/renatomsa">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxmedeiros&layout=compact&langs_count=7&theme=chartreuse-light"/>
+<img src="https://streak-stats.demolab.com?user=cxmedeiros&theme=transparent&mode=weekly" width="385px">
+<img src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&theme=transparent" width="350px">
 </div>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
