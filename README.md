@@ -1,12 +1,9 @@
 ### Hi, I'm Camila Xavier!
 <img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif"/>
 
-- 💻 I'm a Computer Engineering student at CIn - UFPE.
-- 💚 I’m currently as a development student IOS at Apple Developer Academy (UFPE).
+- 💻 I'm a Computer Science student at CIn - UFPE.
 - 💬 Pronouns: she/her :)
 - 😊 I'm 23!
-- ⚕️  I do research in a biomedical computing group and i'm passionate about applying technology to healthcare.
-- 🔎 Enthusiast in the study of AI applied in health.
 - 📚 I love learn new things and challenge me in the world of computing.
 
 <div align="center">
