@@ -9,7 +9,6 @@
 <br>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=cxmedeiros&theme=transparent&mode=weekly" width="385px">
-<img src="https://github-readme-stats.vercel.app/api?username=cxmedeiros&theme=transparent" width="350px">
 </div>
 
 <br>
