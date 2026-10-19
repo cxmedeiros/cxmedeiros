@@ -3,7 +3,7 @@
 
 - 💻 I'm a Computer Science student at CIn - UFPE.
 - 💬 Pronouns: she/her :)
-- 😊 I'm 23!
+- 😊 I'm 24!
 - 📚 I love learn new things and challenge me in the world of computing.
 
 <br>
